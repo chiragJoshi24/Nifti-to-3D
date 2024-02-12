@@ -1,0 +1,12 @@
+# requirements.txt
+
+nibabel==2.5.1
+numpy==1.21.6
+matplotlib==3.5.3
+opencv-python==4.9.0.80
+tensorflow==2.11.0
+keras==2.11.0
+niwidgets==0.2.2
+scikit-image==0.19.0
+meshplot==0.6.3
+numpy-stl==2.16.0
