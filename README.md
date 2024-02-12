@@ -37,5 +37,25 @@ Python code for medical image segmentation using U-Net architecture. This reposi
 - **meshplot**
 - **numpy-stl**
 
+## Getting Started
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/chiragJoshi24/NIfTI-to-3D-Model-Converter.git
+    cd NIfTI-to-3D-Model-Converter
+    ```
+
+2. Install dependencies:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+## Dataset for Model Training
+
+To train the model, you can download the dataset from [Cancer Imaging Archive](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=61080890).
+
+
 ## Contribution
 Contributions are welcome! Feel free to report issues or suggest improvements.
